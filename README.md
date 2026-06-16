@@ -32,20 +32,11 @@ Project ini menggunakan beberapa library Python, yaitu:
 ```text
 Project/
 │
-├── notebook.ipynb
+├──  README.md
 ├── laporan.pdf
-├── README.md
-├── images/
-│   ├── cnn_accuracy.png
-│   ├── cnn_loss.png
-│   ├── cnn_confusion_matrix.png
-│   ├── tl_accuracy.png
-│   ├── tl_loss.png
-│   └── tl_confusion_matrix.png
-│
-└── hasil/
-    ├── prediksi_cnn.png
-    └── prediksi_transfer_learning.png
+├── link_dataset.txt
+├── notebook.ipynb
+└── requirements.txt
 ```
 
 ## Ringkasan Hasil Eksperimen
