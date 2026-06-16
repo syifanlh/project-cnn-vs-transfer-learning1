@@ -1,0 +1,10 @@
+Dataset: CIFAR-10
+
+Sumber Dataset:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+TensorFlow Documentation:
+https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar10
+
+Dataset diunduh secara otomatis menggunakan:
+tensorflow.keras.datasets.cifar10.load_data()
